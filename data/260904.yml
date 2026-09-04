@@ -1,11 +1,13 @@
 about:
-  description: executes SQL against CSV, TSV, LTSV, JSON, JSONL, Parquet, Microsoft Excel™ , ACH, and Fedwire files with shell.
+  description:
+  |
+    executes SQL against CSV, TSV, LTSV, JSON, JSONL, Parquet, Microsoft Excel™ , ACH, and Fedwire files with shell.
   license: MIT
   homepage: https://nao1215.github.io/sqly/
   head: 9461f75
   archived: false
   latestVersion: v1.7.0
-  collectedAt: 2026-09-04T04:23:31Z
+  collectedAt: 2026-09-04T19:31:45Z
 timeline:
   created: 2022-10-30
   lastCommit: 2026-09-03
@@ -16,7 +18,7 @@ popularity:
   fork: 4
   release: 74
   contributor: 5
-  pullRequest: 70
+  pullRequest: 566
   issue: 394
 language:
   Go: 2137388
@@ -25,21 +27,29 @@ language:
   HTML: 12342
   Makefile: 2751
   Go Template: 894
-totalLine: 2187575
+totalBytes: 2187575
 recent:
   last30d:
     since: 2026-08-05
     release: 21
     mergedPR: 94
-    openPR: 0
+    openPR: 2
     closedIssue: 26
     openIssue: 0
     commit: 141
+  last60d:
+    since: 2026-07-06
+    release: 32
+    mergedPR: 183
+    openPR: 2
+    closedIssue: 27
+    openIssue: 0
+    commit: 371
   last90d:
     since: 2026-06-06
     release: 36
     mergedPR: 276
-    openPR: 0
+    openPR: 2
     closedIssue: 92
     openIssue: 0
     commit: 499
@@ -47,7 +57,7 @@ recent:
     since: 2026-03-08
     release: 45
     mergedPR: 358
-    openPR: 0
+    openPR: 2
     closedIssue: 383
     openIssue: 0
     commit: 653
@@ -55,7 +65,25 @@ recent:
     since: 2025-09-09
     release: 51
     mergedPR: 383
-    openPR: 0
+    openPR: 2
     closedIssue: 388
     openIssue: 0
     commit: 688
+  last720d:
+    since: 2024-09-14
+    release: 56
+    mergedPR: 427
+    openPR: 2
+    closedIssue: 391
+    openIssue: 0
+    commit: 1112
+total:
+  release: 74
+  mergedPR: 494
+  openPR: 2
+  closedIssue: 394
+  openIssue: 0
+  commit: 1378
+---
+---
+
