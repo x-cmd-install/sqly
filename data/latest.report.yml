@@ -5,7 +5,7 @@ about:
   head: 9461f75
   archived: false
   latestVersion: "v1.7.0"
-  collectedAt: 2026-09-08T01:32:42Z
+  collectedAt: 2026-09-08T03:31:30Z
 timeline:
   created: 2022-10-30
   lastCommit: 2026-09-03
@@ -84,7 +84,7 @@ total:
   commit: 1378
 ---
 path: /home/runner/.x-repo/github.com/nao1215/sqly
-collectedAt: 2026-09-08T01:32:45Z
+collectedAt: 2026-09-08T03:31:34Z
 loc:
   Go:
     code: 47071
