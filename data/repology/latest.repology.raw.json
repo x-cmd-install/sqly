@@ -1,0 +1,1 @@
+[{"repo":"aur","srcname":"sqly-bin","binname":"sqly-bin","visiblename":"sqly-bin","version":"1.7.0","origversion":"1.7.0-1","status":"unique","summary":"Eaisly execute SQL against CSV/TSV/LTSV/JSON and Microsoft Excel™ with shell","maintainers":["dominiquini@aur"],"licenses":["MIT"]}]
