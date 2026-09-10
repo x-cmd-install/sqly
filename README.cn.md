@@ -4,7 +4,7 @@
 
 executes SQL against CSV, TSV, LTSV, JSON, JSONL, Parquet, Microsoft Excel™ , ACH, and Fedwire files with shell.
 
-![sqly](https://repo.x-cmd.io/sqly.svg)
+![sqly](https://repo.x-cmd.io/sqly.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,31 @@ x install sqly
 - **最新版本**: `v1.7.0` (2026-09-03)
 - **最近提交**: 2026-09-03
 - **Release 含资产**: 20 个
-- **发布时间**: 2026-09-03T13:21:40Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/nao1215/sqly/releases/download/v1.7.0/checksums.txt) | 1.7 KiB | `other` |
+| [checksums.txt.sigstore.json](https://github.com/nao1215/sqly/releases/download/v1.7.0/checksums.txt.sigstore.json) | 9.7 KiB | `other` |
+| [sqly_1.7.0_darwin_amd64.tar.gz](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_darwin_amd64.tar.gz) | 12.7 MiB | `native/darwin/x64` |
+| [sqly_1.7.0_darwin_amd64.tar.gz.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_darwin_amd64.tar.gz.sbom.json) | 86.8 KiB | `native/darwin/x64` |
+| [sqly_1.7.0_darwin_arm64.tar.gz](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_darwin_arm64.tar.gz) | 11.9 MiB | `native/darwin/arm64` |
+| [sqly_1.7.0_darwin_arm64.tar.gz.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_darwin_arm64.tar.gz.sbom.json) | 86.8 KiB | `native/darwin/arm64` |
+| [sqly_1.7.0_linux_amd64.apk](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_linux_amd64.apk) | 12.8 MiB | `native/linux/x64` |
+| [sqly_1.7.0_linux_amd64.deb](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_linux_amd64.deb) | 12.4 MiB | `native/linux/x64` |
+| [sqly_1.7.0_linux_amd64.rpm](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_linux_amd64.rpm) | 12.4 MiB | `native/linux/x64` |
+| [sqly_1.7.0_linux_amd64.tar.gz](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_linux_amd64.tar.gz) | 12.5 MiB | `native/linux/x64` |
+| [sqly_1.7.0_linux_amd64.tar.gz.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_linux_amd64.tar.gz.sbom.json) | 85.1 KiB | `native/linux/x64` |
+| [sqly_1.7.0_linux_arm64.apk](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_linux_arm64.apk) | 11.7 MiB | `native/linux/arm64` |
+| [sqly_1.7.0_linux_arm64.deb](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_linux_arm64.deb) | 11.4 MiB | `native/linux/arm64` |
+| [sqly_1.7.0_linux_arm64.rpm](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_linux_arm64.rpm) | 11.3 MiB | `native/linux/arm64` |
+| [sqly_1.7.0_linux_arm64.tar.gz](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_linux_arm64.tar.gz) | 11.5 MiB | `native/linux/arm64` |
+| [sqly_1.7.0_linux_arm64.tar.gz.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_linux_arm64.tar.gz.sbom.json) | 85.1 KiB | `native/linux/arm64` |
+| [sqly_1.7.0_windows_amd64.zip](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_windows_amd64.zip) | 12.8 MiB | `native/win/x64` |
+| [sqly_1.7.0_windows_amd64.zip.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_windows_amd64.zip.sbom.json) | 88.0 KiB | `native/win/x64` |
+| [sqly_1.7.0_windows_arm64.zip](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_windows_arm64.zip) | 11.5 MiB | `native/win/arm64` |
+| [sqly_1.7.0_windows_arm64.zip.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.0/sqly_1.7.0_windows_arm64.zip.sbom.json) | 88.0 KiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -62,4 +86,4 @@ sqly 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:01:42Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:52:32Z._
