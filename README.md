@@ -42,18 +42,18 @@ Total: **64,700** lines of code across **326** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 496 · **Open PRs**: 2 · **Closed issues**: 394 · **Open issues**: 0 · **Commits**: 1380
+- **Releases**: 74 · **Merged PRs**: 496 · **Open PRs**: 4 · **Closed issues**: 394 · **Open issues**: 0 · **Commits**: 1380
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 14 | 43 | 2 | 1 | 0 | 76 |
-| last60d | 2026-07-18 | 29 | 173 | 2 | 26 | 0 | 351 |
-| 90d | 2026-06-18 | 35 | 275 | 2 | 92 | 0 | 498 |
-| last180d | 2026-03-20 | 45 | 360 | 2 | 383 | 0 | 585 |
-| 360d | 2025-09-21 | 49 | 379 | 2 | 386 | 0 | 676 |
-| last720d | 2024-09-26 | 56 | 429 | 2 | 391 | 0 | 1114 |
+| 30d | 2026-08-18 | 14 | 43 | 4 | 1 | 0 | 76 |
+| last60d | 2026-07-19 | 29 | 172 | 4 | 26 | 0 | 351 |
+| 90d | 2026-06-19 | 35 | 275 | 4 | 92 | 0 | 498 |
+| last180d | 2026-03-21 | 45 | 360 | 4 | 383 | 0 | 585 |
+| 360d | 2025-09-22 | 49 | 377 | 4 | 386 | 0 | 676 |
+| last720d | 2024-09-27 | 56 | 429 | 4 | 391 | 0 | 1114 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for sqly lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T03:16:33Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T03:22:23Z._
