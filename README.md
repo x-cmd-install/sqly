@@ -4,7 +4,7 @@
 
 executes SQL against CSV, TSV, LTSV, JSON, JSONL, Parquet, Microsoft Excel™ , ACH, and Fedwire files with shell.
 
-![sqly](https://repo.x-cmd.io/sqly.svg)
+[![x-cmd/install — sqly Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sqly.svg)](https://x-cmd.com/install/sqly)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install sqly
 
 ## Code insight
 
-Total: **64,700** lines of code across **326** files in the top 5 languages.
+Total: **64,669** lines of code across **328** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 47,071 | 9,907 | 5,495 | 223 |
-| Yaml | 16,243 | 1,585 | 1,102 | 87 |
+| Go | 46,752 | 9,842 | 5,449 | 222 |
+| Yaml | 16,482 | 1,613 | 1,114 | 89 |
 | Css | 549 | 36 | 84 | 2 |
+| Sh | 295 | 147 | 53 | 6 |
 | Html | 258 | 0 | 0 | 9 |
-| Sh | 251 | 138 | 51 | 5 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **64,700** lines of code across **326** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.7.0` (2026-09-03)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-18
 - **Assets in release**: 20
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **64,700** lines of code across **326** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 496 · **Open PRs**: 4 · **Closed issues**: 394 · **Open issues**: 0 · **Commits**: 1380
+- **Releases**: 74 · **Merged PRs**: 498 · **Open PRs**: 6 · **Closed issues**: 394 · **Open issues**: 0 · **Commits**: 1382
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 14 | 43 | 4 | 1 | 0 | 76 |
-| last60d | 2026-07-20 | 28 | 167 | 4 | 26 | 0 | 351 |
-| 90d | 2026-06-20 | 35 | 275 | 4 | 92 | 0 | 498 |
-| last180d | 2026-03-22 | 45 | 355 | 4 | 383 | 0 | 585 |
-| 360d | 2025-09-23 | 49 | 373 | 4 | 386 | 0 | 676 |
-| last720d | 2024-09-28 | 56 | 429 | 4 | 391 | 0 | 1113 |
+| 30d | 2026-08-21 | 14 | 42 | 6 | 1 | 0 | 51 |
+| last60d | 2026-07-22 | 27 | 168 | 6 | 26 | 0 | 345 |
+| 90d | 2026-06-22 | 35 | 276 | 6 | 92 | 0 | 443 |
+| last180d | 2026-03-24 | 44 | 356 | 6 | 383 | 0 | 586 |
+| 360d | 2025-09-25 | 47 | 375 | 6 | 386 | 0 | 678 |
+| last720d | 2024-09-30 | 56 | 431 | 6 | 391 | 0 | 1115 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for sqly lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:08:39Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:20:26Z._
