@@ -33,27 +33,27 @@ Total: **64,669** lines of code across **328** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.7.0` (2026-09-03)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-20
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 178 · **Forks**: 4 · **Open issues**: 394 · **Contributors**: 5
+- **Stars**: 185 · **Forks**: 4 · **Open issues**: 394 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 498 · **Open PRs**: 6 · **Closed issues**: 394 · **Open issues**: 0 · **Commits**: 1382
+- **Releases**: 74 · **Merged PRs**: 504 · **Open PRs**: 0 · **Closed issues**: 394 · **Open issues**: 0 · **Commits**: 1388
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 14 | 42 | 6 | 1 | 0 | 51 |
-| last60d | 2026-07-22 | 27 | 168 | 6 | 26 | 0 | 345 |
-| 90d | 2026-06-22 | 35 | 276 | 6 | 92 | 0 | 443 |
-| last180d | 2026-03-24 | 44 | 356 | 6 | 383 | 0 | 586 |
-| 360d | 2025-09-25 | 47 | 375 | 6 | 386 | 0 | 678 |
-| last720d | 2024-09-30 | 56 | 431 | 6 | 391 | 0 | 1115 |
+| 30d | 2026-08-22 | 13 | 48 | 0 | 1 | 0 | 57 |
+| last60d | 2026-07-23 | 27 | 174 | 0 | 26 | 0 | 351 |
+| 90d | 2026-06-23 | 35 | 282 | 0 | 92 | 0 | 449 |
+| last180d | 2026-03-25 | 44 | 362 | 0 | 383 | 0 | 592 |
+| 360d | 2025-09-26 | 47 | 381 | 0 | 386 | 0 | 684 |
+| last720d | 2024-10-01 | 56 | 437 | 0 | 391 | 0 | 1121 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for sqly lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T03:20:26Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T03:16:00Z._
