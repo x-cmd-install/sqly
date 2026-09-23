@@ -4,7 +4,7 @@
 
 executes SQL against CSV, TSV, LTSV, JSON, JSONL, Parquet, Microsoft Excel™ , ACH, and Fedwire files with shell.
 
-[![x-cmd/install — sqly Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sqly.svg)](https://x-cmd.com/install/sqly)
+[![x-cmd/install — sqly Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/sqly.svg)](https://x-cmd.com/install/sqly)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **64,667** lines of code across **328** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 14 | 53 | 2 | 1 | 0 | 62 |
-| last60d | 2026-07-24 | 28 | 179 | 2 | 26 | 0 | 356 |
-| 90d | 2026-06-24 | 36 | 287 | 2 | 92 | 0 | 454 |
-| last180d | 2026-03-26 | 45 | 367 | 2 | 383 | 0 | 597 |
-| 360d | 2025-09-27 | 48 | 386 | 2 | 386 | 0 | 689 |
-| last720d | 2024-10-02 | 57 | 442 | 2 | 391 | 0 | 1126 |
+| 30d | 2026-08-24 | 14 | 51 | 2 | 1 | 0 | 62 |
+| last60d | 2026-07-25 | 28 | 178 | 2 | 26 | 0 | 356 |
+| 90d | 2026-06-25 | 36 | 287 | 2 | 92 | 0 | 454 |
+| last180d | 2026-03-27 | 45 | 366 | 2 | 383 | 0 | 597 |
+| 360d | 2025-09-28 | 48 | 386 | 2 | 386 | 0 | 689 |
+| last720d | 2024-10-03 | 57 | 442 | 2 | 391 | 0 | 1126 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for sqly lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T03:15:05Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T03:15:43Z._
