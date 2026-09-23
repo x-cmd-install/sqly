@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1770,
       "digest": "sha256:da6add9950f584eca9a76316b2f3488066c40d77c67cc294bdab11f7e2f1f8a5",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-09-21T08:32:01Z",
       "updated_at": "2026-09-21T08:32:02Z",
       "browser_download_url": "https://github.com/nao1215/sqly/releases/download/v1.7.1/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 13313601,
       "digest": "sha256:87fc1967487ea7a30c9d419abad60c2b2763698cf5d9b5e7644bfed6b89b2e88",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-09-21T08:31:58Z",
       "updated_at": "2026-09-21T08:31:59Z",
       "browser_download_url": "https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_darwin_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12487543,
       "digest": "sha256:b399b55dbd3856dfc094161209b1d39bf64c906c4fe0b6e7ebadc200d9ecb136",
-      "download_count": 9,
+      "download_count": 15,
       "created_at": "2026-09-21T08:31:57Z",
       "updated_at": "2026-09-21T08:31:58Z",
       "browser_download_url": "https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_darwin_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 13195423,
       "digest": "sha256:e5185ca8a0780028cd52334380290785eb2525b2ee376c1f31c0111adf8fd455",
-      "download_count": 6,
+      "download_count": 13,
       "created_at": "2026-09-21T08:31:56Z",
       "updated_at": "2026-09-21T08:31:57Z",
       "browser_download_url": "https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_linux_amd64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 12100340,
       "digest": "sha256:254a9416c8a40c358e637e57a28779a25f5f10c4932c84354237a952021be4c4",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-09-21T08:31:56Z",
       "updated_at": "2026-09-21T08:31:57Z",
       "browser_download_url": "https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_linux_arm64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 13386439,
       "digest": "sha256:abaf3caef2b7ccc849917659da07ec34db17c1d1082db83a191eab805f413b4e",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-09-21T08:31:56Z",
       "updated_at": "2026-09-21T08:31:57Z",
       "browser_download_url": "https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_windows_amd64.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 12116948,
       "digest": "sha256:15826dc943cc47d02d81927375efc39bdf8bc7847c49dc7d8fd08437192aa6d7",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-09-21T08:31:56Z",
       "updated_at": "2026-09-21T08:31:57Z",
       "browser_download_url": "https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_windows_arm64.zip"
