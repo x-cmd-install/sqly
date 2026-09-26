@@ -14,12 +14,12 @@ x install sqly
 
 ## Code insight
 
-Total: **64,667** lines of code across **328** files in the top 5 languages.
+Total: **64,692** lines of code across **328** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 46,752 | 9,842 | 5,449 | 222 |
-| Yaml | 16,480 | 1,613 | 1,114 | 89 |
+| Yaml | 16,505 | 1,634 | 1,114 | 89 |
 | Css | 549 | 36 | 84 | 2 |
 | Sh | 295 | 147 | 53 | 6 |
 | Html | 258 | 0 | 0 | 9 |
@@ -33,7 +33,7 @@ Total: **64,667** lines of code across **328** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.7.1` (2026-09-21)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-26
 - **Assets in release**: 20
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **64,667** lines of code across **328** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 509 · **Open PRs**: 2 · **Closed issues**: 394 · **Open issues**: 0 · **Commits**: 1393
+- **Releases**: 75 · **Merged PRs**: 512 · **Open PRs**: 2 · **Closed issues**: 394 · **Open issues**: 0 · **Commits**: 1398
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 12 | 49 | 2 | 1 | 0 | 62 |
-| last60d | 2026-07-27 | 28 | 174 | 2 | 26 | 0 | 356 |
-| 90d | 2026-06-27 | 36 | 287 | 2 | 92 | 0 | 454 |
-| last180d | 2026-03-29 | 45 | 366 | 2 | 383 | 0 | 597 |
-| 360d | 2025-09-30 | 48 | 386 | 2 | 386 | 0 | 689 |
-| last720d | 2024-10-05 | 57 | 441 | 2 | 391 | 0 | 1126 |
+| 30d | 2026-08-27 | 11 | 46 | 2 | 0 | 0 | 65 |
+| last60d | 2026-07-28 | 28 | 174 | 2 | 26 | 0 | 359 |
+| 90d | 2026-06-28 | 36 | 247 | 2 | 51 | 0 | 457 |
+| last180d | 2026-03-30 | 45 | 369 | 2 | 383 | 0 | 600 |
+| 360d | 2025-10-01 | 48 | 389 | 2 | 386 | 0 | 692 |
+| last720d | 2024-10-06 | 57 | 444 | 2 | 391 | 0 | 1131 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for sqly lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T03:22:08Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T03:27:11Z._
