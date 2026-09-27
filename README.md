@@ -32,7 +32,7 @@ Total: **64,692** lines of code across **328** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.7.1` (2026-09-21)
+- **Latest**: `v1.7.2` (2026-09-26)
 - **Last commit**: 2026-09-26
 - **Assets in release**: 20
 
@@ -42,43 +42,43 @@ Total: **64,692** lines of code across **328** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 512 · **Open PRs**: 2 · **Closed issues**: 394 · **Open issues**: 0 · **Commits**: 1398
+- **Releases**: 76 · **Merged PRs**: 516 · **Open PRs**: 0 · **Closed issues**: 394 · **Open issues**: 0 · **Commits**: 1406
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 11 | 46 | 2 | 0 | 0 | 65 |
-| last60d | 2026-07-28 | 28 | 174 | 2 | 26 | 0 | 359 |
-| 90d | 2026-06-28 | 36 | 247 | 2 | 51 | 0 | 457 |
-| last180d | 2026-03-30 | 45 | 369 | 2 | 383 | 0 | 600 |
-| 360d | 2025-10-01 | 48 | 389 | 2 | 386 | 0 | 692 |
-| last720d | 2024-10-06 | 57 | 444 | 2 | 391 | 0 | 1131 |
+| 30d | 2026-08-28 | 9 | 50 | 0 | 0 | 0 | 22 |
+| last60d | 2026-07-29 | 28 | 163 | 0 | 26 | 0 | 231 |
+| 90d | 2026-06-29 | 36 | 221 | 0 | 28 | 0 | 412 |
+| last180d | 2026-03-31 | 46 | 373 | 0 | 383 | 0 | 604 |
+| 360d | 2025-10-02 | 49 | 393 | 0 | 386 | 0 | 696 |
+| last720d | 2024-10-07 | 58 | 448 | 0 | 391 | 0 | 1139 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/nao1215/sqly/releases/download/v1.7.1/checksums.txt) | 1.7 KiB | `other` |
-| [checksums.txt.sigstore.json](https://github.com/nao1215/sqly/releases/download/v1.7.1/checksums.txt.sigstore.json) | 9.8 KiB | `other` |
-| [sqly_1.7.1_darwin_amd64.tar.gz](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_darwin_amd64.tar.gz) | 12.7 MiB | `native/darwin/x64` |
-| [sqly_1.7.1_darwin_amd64.tar.gz.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_darwin_amd64.tar.gz.sbom.json) | 86.8 KiB | `native/darwin/x64` |
-| [sqly_1.7.1_darwin_arm64.tar.gz](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_darwin_arm64.tar.gz) | 11.9 MiB | `native/darwin/arm64` |
-| [sqly_1.7.1_darwin_arm64.tar.gz.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_darwin_arm64.tar.gz.sbom.json) | 86.8 KiB | `native/darwin/arm64` |
-| [sqly_1.7.1_linux_amd64.apk](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_linux_amd64.apk) | 12.9 MiB | `native/linux/x64` |
-| [sqly_1.7.1_linux_amd64.deb](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_linux_amd64.deb) | 12.5 MiB | `native/linux/x64` |
-| [sqly_1.7.1_linux_amd64.rpm](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_linux_amd64.rpm) | 12.4 MiB | `native/linux/x64` |
-| [sqly_1.7.1_linux_amd64.tar.gz](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_linux_amd64.tar.gz) | 12.6 MiB | `native/linux/x64` |
-| [sqly_1.7.1_linux_amd64.tar.gz.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_linux_amd64.tar.gz.sbom.json) | 85.1 KiB | `native/linux/x64` |
-| [sqly_1.7.1_linux_arm64.apk](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_linux_arm64.apk) | 11.8 MiB | `native/linux/arm64` |
-| [sqly_1.7.1_linux_arm64.deb](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_linux_arm64.deb) | 11.4 MiB | `native/linux/arm64` |
-| [sqly_1.7.1_linux_arm64.rpm](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_linux_arm64.rpm) | 11.4 MiB | `native/linux/arm64` |
-| [sqly_1.7.1_linux_arm64.tar.gz](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_linux_arm64.tar.gz) | 11.5 MiB | `native/linux/arm64` |
-| [sqly_1.7.1_linux_arm64.tar.gz.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_linux_arm64.tar.gz.sbom.json) | 85.1 KiB | `native/linux/arm64` |
-| [sqly_1.7.1_windows_amd64.zip](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_windows_amd64.zip) | 12.8 MiB | `native/win/x64` |
-| [sqly_1.7.1_windows_amd64.zip.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_windows_amd64.zip.sbom.json) | 88.0 KiB | `native/win/x64` |
-| [sqly_1.7.1_windows_arm64.zip](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_windows_arm64.zip) | 11.6 MiB | `native/win/arm64` |
-| [sqly_1.7.1_windows_arm64.zip.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.1/sqly_1.7.1_windows_arm64.zip.sbom.json) | 88.0 KiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/nao1215/sqly/releases/download/v1.7.2/checksums.txt) | 1.7 KiB | `other` |
+| [checksums.txt.sigstore.json](https://github.com/nao1215/sqly/releases/download/v1.7.2/checksums.txt.sigstore.json) | 10.0 KiB | `other` |
+| [sqly_1.7.2_darwin_amd64.tar.gz](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_darwin_amd64.tar.gz) | 12.7 MiB | `native/darwin/x64` |
+| [sqly_1.7.2_darwin_amd64.tar.gz.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_darwin_amd64.tar.gz.sbom.json) | 86.8 KiB | `native/darwin/x64` |
+| [sqly_1.7.2_darwin_arm64.tar.gz](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_darwin_arm64.tar.gz) | 11.9 MiB | `native/darwin/arm64` |
+| [sqly_1.7.2_darwin_arm64.tar.gz.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_darwin_arm64.tar.gz.sbom.json) | 86.8 KiB | `native/darwin/arm64` |
+| [sqly_1.7.2_linux_amd64.apk](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_linux_amd64.apk) | 13.0 MiB | `native/linux/x64` |
+| [sqly_1.7.2_linux_amd64.deb](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_linux_amd64.deb) | 12.5 MiB | `native/linux/x64` |
+| [sqly_1.7.2_linux_amd64.rpm](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_linux_amd64.rpm) | 12.5 MiB | `native/linux/x64` |
+| [sqly_1.7.2_linux_amd64.tar.gz](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_linux_amd64.tar.gz) | 12.6 MiB | `native/linux/x64` |
+| [sqly_1.7.2_linux_amd64.tar.gz.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_linux_amd64.tar.gz.sbom.json) | 85.1 KiB | `native/linux/x64` |
+| [sqly_1.7.2_linux_arm64.apk](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_linux_arm64.apk) | 11.8 MiB | `native/linux/arm64` |
+| [sqly_1.7.2_linux_arm64.deb](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_linux_arm64.deb) | 11.4 MiB | `native/linux/arm64` |
+| [sqly_1.7.2_linux_arm64.rpm](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_linux_arm64.rpm) | 11.4 MiB | `native/linux/arm64` |
+| [sqly_1.7.2_linux_arm64.tar.gz](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_linux_arm64.tar.gz) | 11.5 MiB | `native/linux/arm64` |
+| [sqly_1.7.2_linux_arm64.tar.gz.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_linux_arm64.tar.gz.sbom.json) | 85.1 KiB | `native/linux/arm64` |
+| [sqly_1.7.2_windows_amd64.zip](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_windows_amd64.zip) | 12.8 MiB | `native/win/x64` |
+| [sqly_1.7.2_windows_amd64.zip.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_windows_amd64.zip.sbom.json) | 88.0 KiB | `native/win/x64` |
+| [sqly_1.7.2_windows_arm64.zip](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_windows_arm64.zip) | 11.6 MiB | `native/win/arm64` |
+| [sqly_1.7.2_windows_arm64.zip.sbom.json](https://github.com/nao1215/sqly/releases/download/v1.7.2/sqly_1.7.2_windows_arm64.zip.sbom.json) | 88.0 KiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -89,4 +89,4 @@ Install metadata for sqly lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T03:27:11Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T03:35:55Z._
