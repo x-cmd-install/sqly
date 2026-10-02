@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 526 · **Open PRs**: 1 · **Closed issues**: 395 · **Open issues**: 0 · **Commits**: 1438
+- **Releases**: 77 · **Merged PRs**: 526 · **Open PRs**: 3 · **Closed issues**: 395 · **Open issues**: 0 · **Commits**: 1438
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 8 | 39 | 1 | 1 | 0 | 46 |
-| last60d | 2026-08-02 | 27 | 164 | 1 | 27 | 0 | 255 |
-| 90d | 2026-07-03 | 36 | 229 | 1 | 28 | 0 | 436 |
-| last180d | 2026-04-04 | 47 | 383 | 1 | 384 | 0 | 628 |
-| 360d | 2025-10-06 | 50 | 403 | 1 | 387 | 0 | 720 |
-| last720d | 2024-10-11 | 59 | 458 | 1 | 392 | 0 | 1171 |
+| 30d | 2026-09-02 | 7 | 34 | 3 | 1 | 0 | 46 |
+| last60d | 2026-08-03 | 27 | 163 | 3 | 27 | 0 | 255 |
+| 90d | 2026-07-04 | 36 | 226 | 3 | 28 | 0 | 436 |
+| last180d | 2026-04-05 | 47 | 383 | 3 | 384 | 0 | 628 |
+| 360d | 2025-10-07 | 50 | 403 | 3 | 387 | 0 | 720 |
+| last720d | 2024-10-12 | 59 | 458 | 3 | 392 | 0 | 1171 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for sqly lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T04:05:03Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T03:59:48Z._
