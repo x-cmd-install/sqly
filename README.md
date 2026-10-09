@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 3 | 32 | 6 | 1 | 0 | 46 |
-| last60d | 2026-08-09 | 19 | 84 | 6 | 2 | 0 | 127 |
-| 90d | 2026-07-10 | 32 | 207 | 6 | 27 | 0 | 413 |
-| last180d | 2026-04-11 | 47 | 383 | 6 | 384 | 0 | 628 |
-| 360d | 2025-10-13 | 50 | 402 | 6 | 386 | 0 | 719 |
-| last720d | 2024-10-18 | 59 | 457 | 6 | 392 | 0 | 1170 |
+| 30d | 2026-09-09 | 3 | 32 | 6 | 1 | 0 | 46 |
+| last60d | 2026-08-10 | 18 | 79 | 6 | 2 | 0 | 127 |
+| 90d | 2026-07-11 | 32 | 207 | 6 | 27 | 0 | 413 |
+| last180d | 2026-04-12 | 47 | 383 | 6 | 384 | 0 | 628 |
+| 360d | 2025-10-14 | 50 | 402 | 6 | 386 | 0 | 719 |
+| last720d | 2024-10-19 | 59 | 457 | 6 | 392 | 0 | 1170 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for sqly lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T04:26:28Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T04:30:40Z._
