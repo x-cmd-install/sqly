@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13336792,
       "digest": "sha256:c82e5930e502224b1c5d0ac960fe63c330e39ca1d4befccb636e5ccfb7549860",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-09-28T06:14:51Z",
       "updated_at": "2026-09-28T06:14:52Z",
       "browser_download_url": "https://github.com/nao1215/sqly/releases/download/v1.7.3/sqly_1.7.3_darwin_amd64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 13216160,
       "digest": "sha256:b5467b37ece767e8a45777caf1dc19931444330396383fe38506d9a7e56205e7",
-      "download_count": 83,
+      "download_count": 85,
       "created_at": "2026-09-28T06:14:53Z",
       "updated_at": "2026-09-28T06:14:54Z",
       "browser_download_url": "https://github.com/nao1215/sqly/releases/download/v1.7.3/sqly_1.7.3_linux_amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 12400934,
       "digest": "sha256:41099b2cf10f5f7783d0524df16ba56a678a10df3f344a63c52857cb7ed4bbc7",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-28T06:14:54Z",
       "updated_at": "2026-09-28T06:14:55Z",
       "browser_download_url": "https://github.com/nao1215/sqly/releases/download/v1.7.3/sqly_1.7.3_linux_arm64.apk"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 12121721,
       "digest": "sha256:60d3aaec00343e94a1a3aea0ce84f2174cd830665e5ee881350cb903670c3462",
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2026-09-28T06:14:52Z",
       "updated_at": "2026-09-28T06:14:54Z",
       "browser_download_url": "https://github.com/nao1215/sqly/releases/download/v1.7.3/sqly_1.7.3_linux_arm64.tar.gz"
