@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/9 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 15 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 17 existing vulnerabilities detected
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 10 | 6 | 0 | 0 | 12 |
-| last60d | 2026-08-31 | 9 | 51 | 6 | 1 | 0 | 70 |
-| 90d | 2026-08-01 | 27 | 175 | 6 | 27 | 0 | 337 |
-| last180d | 2026-05-03 | 47 | 392 | 6 | 383 | 0 | 637 |
-| 360d | 2025-11-04 | 50 | 412 | 6 | 386 | 0 | 731 |
-| last720d | 2024-11-09 | 59 | 466 | 6 | 392 | 0 | 1178 |
+| 30d | 2026-10-01 | 0 | 10 | 6 | 0 | 0 | 12 |
+| last60d | 2026-09-01 | 8 | 49 | 6 | 1 | 0 | 70 |
+| 90d | 2026-08-02 | 27 | 174 | 6 | 27 | 0 | 337 |
+| last180d | 2026-05-04 | 47 | 392 | 6 | 383 | 0 | 637 |
+| 360d | 2025-11-05 | 50 | 412 | 6 | 386 | 0 | 731 |
+| last720d | 2024-11-10 | 59 | 466 | 6 | 392 | 0 | 1178 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for sqly lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T04:19:53Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T03:59:07Z._

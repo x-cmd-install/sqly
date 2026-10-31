@@ -32,7 +32,7 @@ x install sqly
 
 - **Code-Review** (0/10) — Found 0/9 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 15 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 17 existing vulnerabilities detected
 
 ## 源代码
 
@@ -58,12 +58,12 @@ x install sqly
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 10 | 6 | 0 | 0 | 12 |
-| last60d | 2026-08-31 | 9 | 51 | 6 | 1 | 0 | 70 |
-| 90d | 2026-08-01 | 27 | 175 | 6 | 27 | 0 | 337 |
-| last180d | 2026-05-03 | 47 | 392 | 6 | 383 | 0 | 637 |
-| 360d | 2025-11-04 | 50 | 412 | 6 | 386 | 0 | 731 |
-| last720d | 2024-11-09 | 59 | 466 | 6 | 392 | 0 | 1178 |
+| 30d | 2026-10-01 | 0 | 10 | 6 | 0 | 0 | 12 |
+| last60d | 2026-09-01 | 8 | 49 | 6 | 1 | 0 | 70 |
+| 90d | 2026-08-02 | 27 | 174 | 6 | 27 | 0 | 337 |
+| last180d | 2026-05-04 | 47 | 392 | 6 | 383 | 0 | 637 |
+| 360d | 2025-11-05 | 50 | 412 | 6 | 386 | 0 | 731 |
+| last720d | 2024-11-10 | 59 | 466 | 6 | 392 | 0 | 1178 |
 
 ## Release 资产
 
@@ -100,4 +100,4 @@ sqly 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T04:19:58Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T03:59:07Z._
