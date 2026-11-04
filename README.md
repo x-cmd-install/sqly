@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 193 · **Forks**: 3 · **Open issues**: 395 · **Contributors**: 5
+- **Stars**: 194 · **Forks**: 3 · **Open issues**: 395 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 537 · **Open PRs**: 3 · **Closed issues**: 395 · **Open issues**: 0 · **Commits**: 1452
+- **Releases**: 77 · **Merged PRs**: 537 · **Open PRs**: 4 · **Closed issues**: 395 · **Open issues**: 0 · **Commits**: 1452
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 11 | 3 | 0 | 0 | 13 |
-| last60d | 2026-09-04 | 3 | 43 | 3 | 1 | 0 | 59 |
-| 90d | 2026-08-05 | 24 | 137 | 3 | 27 | 0 | 144 |
-| last180d | 2026-05-07 | 47 | 393 | 3 | 383 | 0 | 638 |
-| 360d | 2025-11-08 | 50 | 413 | 3 | 386 | 0 | 731 |
-| last720d | 2024-11-13 | 59 | 467 | 3 | 392 | 0 | 1179 |
+| 30d | 2026-10-05 | 0 | 11 | 4 | 0 | 0 | 13 |
+| last60d | 2026-09-05 | 3 | 43 | 4 | 1 | 0 | 59 |
+| 90d | 2026-08-06 | 22 | 128 | 4 | 20 | 0 | 144 |
+| last180d | 2026-05-08 | 47 | 393 | 4 | 383 | 0 | 638 |
+| 360d | 2025-11-09 | 50 | 413 | 4 | 386 | 0 | 731 |
+| last720d | 2024-11-14 | 59 | 467 | 4 | 392 | 0 | 1179 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for sqly lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T05:18:34Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T04:46:41Z._
