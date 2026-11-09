@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1770,
       "digest": "sha256:d8d4a919881b1fd4bb04b0fb10d50d1300855fdc415bf439de5e25dcd0415e6d",
-      "download_count": 34,
+      "download_count": 37,
       "created_at": "2026-09-28T06:14:57Z",
       "updated_at": "2026-09-28T06:14:57Z",
       "browser_download_url": "https://github.com/nao1215/sqly/releases/download/v1.7.3/checksums.txt"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 13216160,
       "digest": "sha256:b5467b37ece767e8a45777caf1dc19931444330396383fe38506d9a7e56205e7",
-      "download_count": 164,
+      "download_count": 166,
       "created_at": "2026-09-28T06:14:53Z",
       "updated_at": "2026-09-28T06:14:54Z",
       "browser_download_url": "https://github.com/nao1215/sqly/releases/download/v1.7.3/sqly_1.7.3_linux_amd64.tar.gz"
