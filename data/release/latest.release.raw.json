@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 13415919,
       "digest": "sha256:8ddf318da4b078f0d4d7fa5e9d8b04b19549727a3dc871840dc4a56d22196ea3",
-      "download_count": 19,
+      "download_count": 23,
       "created_at": "2026-11-09T05:43:24Z",
       "updated_at": "2026-11-09T05:43:24Z",
       "browser_download_url": "https://github.com/nao1215/sqly/releases/download/v1.7.4/sqly_1.7.4_linux_amd64.tar.gz"
