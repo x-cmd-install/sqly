@@ -14,11 +14,11 @@ x install sqly
 
 ## Code insight
 
-Total: **71,599** lines of code across **331** files in the top 5 languages.
+Total: **71,760** lines of code across **331** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 48,093 | 10,074 | 5,579 | 225 |
+| Go | 48,098 | 10,075 | 5,579 | 225 |
 | Yaml | 16,614 | 1,644 | 1,119 | 89 |
 | Json | 5,422 | 0 | 0 | 3 |
 | Css | 606 | 40 | 97 | 2 |
@@ -30,7 +30,7 @@ Overall score: **8.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/12 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/13 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.7.4` (2026-11-09)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-16
 - **Assets in release**: 21
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 544 · **Open PRs**: 0 · **Closed issues**: 395 · **Open issues**: 0 · **Commits**: 1467
+- **Releases**: 78 · **Merged PRs**: 546 · **Open PRs**: 0 · **Closed issues**: 395 · **Open issues**: 0 · **Commits**: 1469
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 10 | 0 | 0 | 0 | 13 |
-| last60d | 2026-09-17 | 4 | 45 | 0 | 1 | 0 | 56 |
-| 90d | 2026-08-18 | 18 | 91 | 0 | 2 | 0 | 138 |
-| last180d | 2026-05-20 | 48 | 400 | 0 | 383 | 0 | 650 |
-| 360d | 2025-11-21 | 51 | 417 | 0 | 385 | 0 | 733 |
-| last720d | 2024-11-26 | 60 | 473 | 0 | 392 | 0 | 1192 |
+| 30d | 2026-10-18 | 1 | 12 | 0 | 0 | 0 | 15 |
+| last60d | 2026-09-18 | 4 | 43 | 0 | 1 | 0 | 58 |
+| 90d | 2026-08-19 | 18 | 93 | 0 | 2 | 0 | 140 |
+| last180d | 2026-05-21 | 48 | 402 | 0 | 383 | 0 | 652 |
+| 360d | 2025-11-22 | 51 | 419 | 0 | 385 | 0 | 735 |
+| last720d | 2024-11-27 | 60 | 475 | 0 | 392 | 0 | 1194 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for sqly lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T04:42:42Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T06:28:56Z._
