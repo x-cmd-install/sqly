@@ -26,11 +26,11 @@ Total: **71,989** lines of code across **332** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.1 / 10**
+Overall score: **8.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/17 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/19 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.7.5` (2026-11-19)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 - **Assets in release**: 21
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 551 · **Open PRs**: 1 · **Closed issues**: 395 · **Open issues**: 0 · **Commits**: 1474
+- **Releases**: 79 · **Merged PRs**: 558 · **Open PRs**: 0 · **Closed issues**: 395 · **Open issues**: 0 · **Commits**: 1483
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 2 | 17 | 1 | 0 | 0 | 20 |
-| last60d | 2026-09-20 | 5 | 47 | 1 | 1 | 0 | 63 |
-| 90d | 2026-08-21 | 19 | 95 | 1 | 2 | 0 | 145 |
-| last180d | 2026-05-23 | 49 | 407 | 1 | 383 | 0 | 657 |
-| 360d | 2025-11-24 | 52 | 423 | 1 | 385 | 0 | 740 |
-| last720d | 2024-11-29 | 61 | 480 | 1 | 392 | 0 | 1199 |
+| 30d | 2026-10-21 | 2 | 22 | 0 | 0 | 0 | 27 |
+| last60d | 2026-09-21 | 5 | 49 | 0 | 1 | 0 | 70 |
+| 90d | 2026-08-22 | 18 | 102 | 0 | 2 | 0 | 152 |
+| last180d | 2026-05-24 | 49 | 414 | 0 | 383 | 0 | 664 |
+| 360d | 2025-11-25 | 52 | 430 | 0 | 385 | 0 | 747 |
+| last720d | 2024-11-30 | 61 | 487 | 0 | 392 | 0 | 1208 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for sqly lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T05:52:44Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T05:41:27Z._
