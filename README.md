@@ -26,7 +26,7 @@ Total: **71,989** lines of code across **332** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.2 / 10**
+Overall score: **8.3 / 10**
 
 Lowest-scoring checks:
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 22 | 0 | 0 | 0 | 27 |
-| last60d | 2026-09-21 | 5 | 49 | 0 | 1 | 0 | 70 |
-| 90d | 2026-08-22 | 18 | 102 | 0 | 2 | 0 | 152 |
-| last180d | 2026-05-24 | 49 | 414 | 0 | 383 | 0 | 664 |
-| 360d | 2025-11-25 | 52 | 430 | 0 | 385 | 0 | 747 |
-| last720d | 2024-11-30 | 61 | 487 | 0 | 392 | 0 | 1208 |
+| 30d | 2026-10-22 | 2 | 22 | 0 | 0 | 0 | 27 |
+| last60d | 2026-09-22 | 4 | 48 | 0 | 1 | 0 | 70 |
+| 90d | 2026-08-23 | 18 | 102 | 0 | 2 | 0 | 152 |
+| last180d | 2026-05-25 | 49 | 414 | 0 | 383 | 0 | 664 |
+| 360d | 2025-11-26 | 52 | 430 | 0 | 385 | 0 | 747 |
+| last720d | 2024-12-01 | 61 | 487 | 0 | 392 | 0 | 1208 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for sqly lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T05:41:27Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T05:34:46Z._
